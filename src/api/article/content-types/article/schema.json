@@ -56,11 +56,10 @@
     },
     "description": {
       "type": "text",
-      "maxLength": 130,
       "required": true,
       "pluginOptions": {
         "i18n": {
-          "localized": true
+          "localized": false
         }
       }
     },
