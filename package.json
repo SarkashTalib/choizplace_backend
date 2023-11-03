@@ -12,11 +12,11 @@
   "dependencies": {
     "@_sh/strapi-plugin-ckeditor": "^2.0.3",
     "@ckeditor/ckeditor5-markdown-gfm": "^36.0.1",
-    "@strapi/plugin-graphql": "^4.5.6",
-    "@strapi/plugin-i18n": "4.10.2",
-    "@strapi/plugin-users-permissions": "4.10.2",
-    "@strapi/strapi": "4.10.2",
-    "@strapi/provider-upload-cloudinary": "^4.9.0",
+    "@strapi/plugin-graphql": "^4.15.0",
+    "@strapi/plugin-i18n": "4.15.0",
+    "@strapi/plugin-users-permissions": "4.15.0",
+    "@strapi/strapi": "4.15.0",
+    "@strapi/provider-upload-cloudinary": "^4.15.0",
     "pg": "^8.9.0",
     "strapi-chatgpt": "^1.0.2",
     "strapi-plugin-wysiwyg-react-md-editor": "^4.3.0"
